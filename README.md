@@ -1,3 +1,5 @@
+[PROJETO](https://trybe-tunes.vercel.app/)
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
