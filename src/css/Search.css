@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.form-search {
+  background-image: url('../img/lupa.png');
+  background-position: 350px;
+  background-repeat: no-repeat;
+  background-size: 25px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-right: 15px;
+  padding-left: 5px;
+  padding-right: 25px;
+  width: 350px;
+}
+
+.form-btn {
+  background-color: rgb(5, 52, 219);
+  color: white;
+  cursor: pointer;
+  font-size: 10px;
+  padding: 10px;
+}
+
+.found-search {
+  color: rgb(2, 48, 49);
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.result-container {
+  margin: 30px auto;
+  width: 90%;
+}
+
+.result-text {
+  color: rgb(2, 48, 49);
+  margin-bottom: 20px;
+}
+
+.search-album-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.link-album {
+  align-items: center;
+  box-shadow: 0 3.5px 5px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  height: 180px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+.link-album img {
+  border: 3px solid black;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.4);
+  margin: 0;
+}
+
+.album a {
+  color: black;
+  text-decoration: none;
+}
+
+.artist-name {
+  font-weight: 700;
+  margin-top: 5px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 150px;
+  white-space: nowrap;
+}
+
+.collection-name {
+  margin-top: 5px;
+  overflow: hidden;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 180px;
+}

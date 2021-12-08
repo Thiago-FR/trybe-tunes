@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(249, 249, 246);
+}
+
+.login-img {
+  height: 70px;
+  margin-bottom: 25px;
+  width: 150px;
+}
+
+.input-login {
+  margin: 0;
+  padding: 0;
+}
+
+.login-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+}
+
+.login-contex {
+  box-shadow: 0 3.5px 5px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  padding: 45px;
+  width: 40%;
+}
+
+.btn-login {
+  background-color: rgb(5, 52, 219);
+  color: white;
+  margin-top: 15px;
+}

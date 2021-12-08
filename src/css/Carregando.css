@@ -1,0 +1,19 @@
+.on-header {
+  color: white;
+  font-size: 15px;
+}
+
+.off-header {
+  color:  rgb(2, 48, 49);
+  font-size: 40px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.on-album {
+  color:  rgb(2, 48, 49);
+  font-size: 15px;
+  position: absolute;
+  left: 12%;
+  top: 70%;
+}

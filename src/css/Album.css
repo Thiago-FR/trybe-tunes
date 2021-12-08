@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.album-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.album-context {
+  align-items: center;
+  box-shadow: 0 3.5px 5px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 200px;
+}
+
+.album-context img {
+  border: 3px solid black;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.4);
+  margin-bottom: 10px;
+}
+
+.album-name-collection{
+  align-self: flex-start;
+  display: flex;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 23px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 160px;
+}
+
+.album-artist-name {
+  align-self: flex-start;
+  display: flex;
+  font-size: 15px;
+  font-weight: 300;
+  margin-left: 24px;
+}
