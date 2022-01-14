@@ -13,6 +13,7 @@
 - [O que foi desenvolvido](#o-que-foi-desenvolvido)
 - [Habilidades Desenvolvidas](#habilidades)
 - [Para testar o projeto](#testar-o-projeto)
+- [Protótipo](#prototipo)
 
 ---
 
@@ -67,6 +68,9 @@ Neste projeto, foi desenvolvido as seguintes habilidades:
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
 
-2. Ou click no link abaixo e veja funcionando.
+3. Ou click no link abaixo e veja funcionando.
   * [PROJETO](https://trybe-tunes.vercel.app/)
 ---
+## Protótipo <a name="prototipo"></a>
+
+![Protótipo](/trybeTuner.gif)
